@@ -11,6 +11,5 @@ public class _6 {
             System.out.println(true);
         }
     }
-
 }
 
