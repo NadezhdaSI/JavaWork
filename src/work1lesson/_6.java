@@ -2,7 +2,7 @@ package work1lesson;
 
 import java.util.Scanner;
 
-public class _6 {
+  public class _6 {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
@@ -11,6 +11,5 @@ public class _6 {
             System.out.println(true);
         }
     }
-
 }
 
